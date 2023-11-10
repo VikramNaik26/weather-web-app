@@ -1,0 +1,1 @@
+// serverless setup using NodeJS
